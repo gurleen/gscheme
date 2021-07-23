@@ -18,5 +18,11 @@ python3 main.py
 [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
 ```
 
+Run from a file:
+```bash
+python3 main.py fib.scm
+[1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
