@@ -2,7 +2,7 @@
 
 gscheme is a tiny Scheme interpreter written in Python 3.
 
-It is far from complete. You can find all builtin functions in `env.py`. File I/O is a notable absence.
+It is far from complete. You can find all builtin functions in `env.py`.
 
 
 ## Usage
